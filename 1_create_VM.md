@@ -7,7 +7,7 @@ We choose to use [Fedora20 - netinst](http://fedoraproject.org/en/download-splas
 We used [Oracle VM VirtualBox](https://www.virtualbox.org/) to host the VM. We suggest these configuration bellow:
 
 ```
-- Disk space: 20GB
+- Disk space: 30GB
 - Memory: 8GB
 - Processor: 4 or more cores
 - Network: 3 NIC (1 to internet access (NAT) and 2 host-only or internal network)
